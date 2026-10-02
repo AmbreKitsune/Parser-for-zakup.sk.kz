@@ -165,7 +165,7 @@ The reason is recorded in `data/parser.log`. No need to photograph the entire co
 **A:** Yes, but at your own risk. Creating a new one through the menu is easier.
 
 **Q: Where are the EXE and installer?**  
-**A:** That is the next stage. These instructions currently cover running from source.
+**A:** Download the EXE or installer from [Releases](https://github.com/AmbreKitsune/Parser-for-zakup.sk.kz/releases/latest).
 
 ---
 
@@ -179,18 +179,6 @@ The reason is recorded in `data/parser.log`. No need to photograph the entire co
 - The menu allows lots to be selected, but the current detail collector opens procurement notice cards (`advert`). Full lot support needs separate testing and development.
 - Number history is shared across all configurations and does not track changes to previously found procurement notices.
 - Other operating systems have not been tested yet.
-
----
-
-# Roadmap 🗺️
-
-- [x] Updated project structure
-- [x] Rich menus and progress panel
-- [x] RU / EN / KK localization
-- [x] Working files in one `data/` folder
-- [x] Windows EXE
-- [x] Setup.exe installer
-- [x] Testing and improvements for lot collection
 
 ---
 
